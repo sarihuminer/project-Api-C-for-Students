@@ -1,0 +1,11 @@
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\bin\Debug\Dal.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\bin\Debug\Dal.pdb
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\obj\Debug\Dal.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\obj\Debug\Dal.pdb
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\bin\Debug\Dal.dll.config
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\bin\Debug\EntityFramework.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\bin\Debug\EntityFramework.xml
+C:\Users\sari\Documents\wolf\hildeshimer\Dal\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,17 @@
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Bl.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Bl.pdb
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Dal.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Dto.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Dal.pdb
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Dto.pdb
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\obj\Debug\Bl.csprojResolveAssemblyReference.cache
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\obj\Debug\Bl.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\obj\Debug\Bl.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\obj\Debug\Bl.pdb
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Bl.dll.config
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\EntityFramework.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Dal.dll.config
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\Dto.dll.config
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\EntityFramework.xml
+C:\Users\sari\Documents\wolf\hildeshimer\Bl\bin\Debug\EntityFramework.SqlServer.xml
